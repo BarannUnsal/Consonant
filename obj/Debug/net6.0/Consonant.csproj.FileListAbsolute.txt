@@ -1,0 +1,15 @@
+D:\USERDATA\Desktop\C# Projeler\Orta\10 - Sessiz Harf\Consonant\bin\Debug\net6.0\Consonant.exe
+D:\USERDATA\Desktop\C# Projeler\Orta\10 - Sessiz Harf\Consonant\bin\Debug\net6.0\Consonant.deps.json
+D:\USERDATA\Desktop\C# Projeler\Orta\10 - Sessiz Harf\Consonant\bin\Debug\net6.0\Consonant.runtimeconfig.json
+D:\USERDATA\Desktop\C# Projeler\Orta\10 - Sessiz Harf\Consonant\bin\Debug\net6.0\Consonant.dll
+D:\USERDATA\Desktop\C# Projeler\Orta\10 - Sessiz Harf\Consonant\bin\Debug\net6.0\ref\Consonant.dll
+D:\USERDATA\Desktop\C# Projeler\Orta\10 - Sessiz Harf\Consonant\bin\Debug\net6.0\Consonant.pdb
+D:\USERDATA\Desktop\C# Projeler\Orta\10 - Sessiz Harf\Consonant\obj\Debug\net6.0\Consonant.csproj.AssemblyReference.cache
+D:\USERDATA\Desktop\C# Projeler\Orta\10 - Sessiz Harf\Consonant\obj\Debug\net6.0\Consonant.GeneratedMSBuildEditorConfig.editorconfig
+D:\USERDATA\Desktop\C# Projeler\Orta\10 - Sessiz Harf\Consonant\obj\Debug\net6.0\Consonant.AssemblyInfoInputs.cache
+D:\USERDATA\Desktop\C# Projeler\Orta\10 - Sessiz Harf\Consonant\obj\Debug\net6.0\Consonant.AssemblyInfo.cs
+D:\USERDATA\Desktop\C# Projeler\Orta\10 - Sessiz Harf\Consonant\obj\Debug\net6.0\Consonant.csproj.CoreCompileInputs.cache
+D:\USERDATA\Desktop\C# Projeler\Orta\10 - Sessiz Harf\Consonant\obj\Debug\net6.0\Consonant.dll
+D:\USERDATA\Desktop\C# Projeler\Orta\10 - Sessiz Harf\Consonant\obj\Debug\net6.0\ref\Consonant.dll
+D:\USERDATA\Desktop\C# Projeler\Orta\10 - Sessiz Harf\Consonant\obj\Debug\net6.0\Consonant.pdb
+D:\USERDATA\Desktop\C# Projeler\Orta\10 - Sessiz Harf\Consonant\obj\Debug\net6.0\Consonant.genruntimeconfig.cache
